@@ -1,7 +1,7 @@
 # Processamento Digital de Sinais e Imagens
 
 Disciplina voltada para o estudo de técnicas, algoritmos e ferramentas aplicadas ao **Processamento Digital de Sinais (PDS)** e **Processamento Digital de Imagens (PDI)**.  
-O curso abrange conceitos fundamentais, métodos de análise e aplicações básicas em Processamentod e Imagens Digital.
+O curso abrange conceitos fundamentais, métodos de análise e aplicações básicas em Processamento de Imagens Digitais.
 
 ---
 
